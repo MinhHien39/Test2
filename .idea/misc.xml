@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/ANDROID/Sdk/platforms/android-32/data/res/layout/simple_spinner_item.xml" value="0.2552083333333333" />
+        <entry key="..\:/MyAndroidProject/MyMovie/app/src/main/res/drawable-v24/profile_back_button.xml" value="0.3671875" />
+        <entry key="..\:/MyAndroidProject/MyMovie/app/src/main/res/drawable-v24/profile_bk.xml" value="0.3671875" />
+        <entry key="..\:/MyAndroidProject/MyMovie/app/src/main/res/drawable/bottom_nav_icon_color_selector.xml" value="0.3769230769230769" />
+        <entry key="..\:/MyAndroidProject/MyMovie/app/src/main/res/drawable/favorite.xml" value="0.1765625" />
+        <entry key="..\:/MyAndroidProject/MyMovie/app/src/main/res/drawable/fix_item.xml" value="0.2828125" />
+        <entry key="..\:/MyAndroidProject/MyMovie/app/src/main/res/drawable/ic_baseline_arrow_back_24.xml" value="0.1765625" />
+        <entry key="..\:/MyAndroidProject/MyMovie/app/src/main/res/drawable/ic_baseline_calendar_today_24.xml" value="0.3828125" />
+        <entry key="..\:/MyAndroidProject/MyMovie/app/src/main/res/drawable/ic_baseline_favorite_24.xml" value="0.1765625" />
+        <entry key="..\:/MyAndroidProject/MyMovie/app/src/main/res/drawable/ic_baseline_favorite_border_24.xml" value="0.3828125" />
+        <entry key="..\:/MyAndroidProject/MyMovie/app/src/main/res/drawable/ic_baseline_home_24.xml" value="0.3828125" />
+        <entry key="..\:/MyAndroidProject/MyMovie/app/src/main/res/drawable/ic_launcher_background.xml" value="0.3764102564102564" />
+        <entry key="..\:/MyAndroidProject/MyMovie/app/src/main/res/drawable/info_movie_item.xml" value="0.3828125" />
+        <entry key="..\:/MyAndroidProject/MyMovie/app/src/main/res/drawable/search_bg.xml" value="0.3145833333333333" />
+        <entry key="..\:/MyAndroidProject/MyMovie/app/src/main/res/drawable/test.xml" value="0.31145833333333334" />
+        <entry key="..\:/MyAndroidProject/MyMovie/app/src/main/res/drawable/update_background_far.xml" value="0.3828125" />
+        <entry key="..\:/MyAndroidProject/MyMovie/app/src/main/res/drawable/update_button.xml" value="0.3671875" />
+        <entry key="..\:/MyAndroidProject/MyMovie/app/src/main/res/drawable/update_corner_genres.xml" value="0.3764102564102564" />
+        <entry key="..\:/MyAndroidProject/MyMovie/app/src/main/res/drawable/update_corner_image.xml" value="0.37333333333333335" />
+        <entry key="..\:/MyAndroidProject/MyMovie/app/src/main/res/drawable/update_corner_item.xml" value="0.30625" />
+        <entry key="..\:/MyAndroidProject/MyMovie/app/src/main/res/font/amita.xml" value="0.18958333333333333" />
+        <entry key="..\:/MyAndroidProject/MyMovie/app/src/main/res/layout/action_bar_layout.xml" value="0.36666666666666664" />
+        <entry key="..\:/MyAndroidProject/MyMovie/app/src/main/res/layout/activity_check_data.xml" value="0.26927083333333335" />
+        <entry key="..\:/MyAndroidProject/MyMovie/app/src/main/res/layout/activity_favorite_fragment.xml" value="0.36666666666666664" />
+        <entry key="..\:/MyAndroidProject/MyMovie/app/src/main/res/layout/activity_genres.xml" value="0.30052083333333335" />
+        <entry key="..\:/MyAndroidProject/MyMovie/app/src/main/res/layout/activity_login.xml" value="0.29739583333333336" />
+        <entry key="..\:/MyAndroidProject/MyMovie/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/MyAndroidProject/MyMovie/app/src/main/res/layout/activity_profile.xml" value="0.33" />
+        <entry key="..\:/MyAndroidProject/MyMovie/app/src/main/res/layout/activity_register.xml" value="0.26927083333333335" />
+        <entry key="..\:/MyAndroidProject/MyMovie/app/src/main/res/layout/activity_search.xml" value="0.2984375" />
+        <entry key="..\:/MyAndroidProject/MyMovie/app/src/main/res/layout/activity_second.xml" value="0.25" />
+        <entry key="..\:/MyAndroidProject/MyMovie/app/src/main/res/layout/activity_sign_up.xml" value="0.22916666666666666" />
+        <entry key="..\:/MyAndroidProject/MyMovie/app/src/main/res/layout/activity_signup.xml" value="0.22916666666666666" />
+        <entry key="..\:/MyAndroidProject/MyMovie/app/src/main/res/layout/dialog.xml" value="0.36666666666666664" />
+        <entry key="..\:/MyAndroidProject/MyMovie/app/src/main/res/layout/fragment_favorite.xml" value="0.36666666666666664" />
+        <entry key="..\:/MyAndroidProject/MyMovie/app/src/main/res/layout/fragment_home.xml" value="0.21041666666666667" />
+        <entry key="..\:/MyAndroidProject/MyMovie/app/src/main/res/layout/fragment_movie.xml" value="0.3171875" />
+        <entry key="..\:/MyAndroidProject/MyMovie/app/src/main/res/layout/fragment_now_playing.xml" value="0.33" />
+        <entry key="..\:/MyAndroidProject/MyMovie/app/src/main/res/layout/fragment_second.xml" value="0.35" />
+        <entry key="..\:/MyAndroidProject/MyMovie/app/src/main/res/layout/genres_item.xml" value="0.33" />
+        <entry key="..\:/MyAndroidProject/MyMovie/app/src/main/res/layout/header.xml" value="0.25677083333333334" />
+        <entry key="..\:/MyAndroidProject/MyMovie/app/src/main/res/layout/info_genres_list_item.xml" value="0.284375" />
+        <entry key="..\:/MyAndroidProject/MyMovie/app/src/main/res/layout/info_movie_item.xml" value="0.25" />
+        <entry key="..\:/MyAndroidProject/MyMovie/app/src/main/res/layout/now_playing_item.xml" value="0.29791666666666666" />
+        <entry key="..\:/MyAndroidProject/MyMovie/app/src/main/res/menu/bottom_nav_menu.xml" value="0.36666666666666664" />
+        <entry key="..\:/MyAndroidProject/MyMovie/app/src/main/res/menu/drawer_menu.xml" value="0.3072916666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
