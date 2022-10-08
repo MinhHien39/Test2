@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.core.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".Activity.ProfileActivity">
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <RelativeLayout
+            android:id="@+id/relative"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:layout_margin="10dp"
+            android:background="@drawable/profile_bk">
+
+            <ImageView
+                android:id="@+id/imgPro"
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                android:layout_centerHorizontal="true"
+                android:scaleType="fitXY"
+                android:layout_marginStart="10dp"
+                android:layout_marginTop="10dp"
+                android:layout_marginEnd="10dp"
+                android:layout_marginBottom="10dp"
+
+                />
+
+            <TextView
+                android:id="@+id/txt_namePro"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/imgPro"
+                android:layout_centerHorizontal="true"
+                android:text="Minh Hien"
+                android:textColor="@color/white"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/txt_emailPro"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/txt_namePro"
+                android:layout_centerHorizontal="true"
+                android:text="Tranminhhien06072001@gmail.com"
+                android:textColor="@color/white"
+                android:textSize="14sp" />
+
+        </RelativeLayout>
+
+        <Button
+            android:id="@+id/btnBack"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="70dp"
+            android:layout_marginTop="180dp"
+            android:backgroundTint="#E8526D"
+            android:drawableLeft="@drawable/ic_baseline_arrow_back_24"
+            android:ems="14"
+            android:text="Back To Home"
+            android:textColor="@color/white" />
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginTop="250dp"
+
+            >
+
+            <TextView
+                android:id="@+id/txtInfo"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="20dp"
+                android:layout_marginTop="20dp"
+                android:layout_marginEnd="20dp"
+                android:layout_marginBottom="20dp"
+                android:text="Account Info"
+                android:textColor="@color/black"
+                android:textSize="24sp" />
+
+            <ImageView
+                android:id="@+id/imgName"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:layout_below="@id/txtInfo"
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="20dp"
+
+
+                android:src="@drawable/ic_name" />
+
+            <TextView
+                android:id="@+id/txtName"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/txtInfo"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="20dp"
+                android:layout_toRightOf="@id/imgName"
+                android:text="Name"
+                android:textColor="@color/black" />
+
+            <TextView
+                android:id="@+id/txtHintName"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/txtName"
+                android:layout_marginLeft="20dp"
+                android:layout_toRightOf="@id/imgName"
+                android:text="Developer" />
+
+            <ImageView
+                android:id="@+id/imgMobile"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:layout_below="@id/imgName"
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="20dp"
+
+
+                android:src="@drawable/ic_mobile" />
+
+            <TextView
+                android:id="@+id/txtMobile"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/imgName"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="20dp"
+                android:layout_toRightOf="@id/imgMobile"
+                android:text="Mobile"
+                android:textColor="@color/black" />
+
+            <TextView
+                android:id="@+id/txtHintMobile"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/txtMobile"
+                android:layout_marginLeft="20dp"
+
+                android:layout_toRightOf="@id/imgMobile"
+                android:text="0899248730" />
+
+            <ImageView
+                android:id="@+id/imgEmail"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:layout_below="@id/imgMobile"
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="20dp"
+
+
+                android:src="@drawable/ic_email" />
+
+            <TextView
+                android:id="@+id/txtEmail"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/imgMobile"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="20dp"
+                android:layout_toRightOf="@id/imgEmail"
+                android:text="Email"
+                android:textColor="@color/black" />
+
+            <TextView
+                android:id="@+id/txtHintEmail"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/txtEmail"
+                android:layout_marginLeft="20dp"
+
+                android:layout_toRightOf="@id/imgEmail"
+                android:text="tranminhhien06072001@gmail.com" />
+
+            <ImageView
+                android:id="@+id/imgAddress"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:layout_below="@id/imgEmail"
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="20dp"
+
+
+                android:src="@drawable/ic_address" />
+
+            <TextView
+                android:id="@+id/txtAddress"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/imgEmail"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="20dp"
+                android:layout_toRightOf="@id/imgEmail"
+                android:text="Address"
+                android:textColor="@color/black" />
+
+            <TextView
+                android:id="@+id/txtHintAddress"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/txtAddress"
+                android:layout_marginLeft="20dp"
+
+                android:layout_toRightOf="@id/imgEmail"
+                android:text="Thanh Vinh 6 , Tho Quang , Da Nang" />
+
+            <ImageView
+                android:id="@+id/imgDOB"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:layout_below="@id/imgAddress"
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="20dp"
+
+
+                android:src="@drawable/ic_dob" />
+
+            <TextView
+                android:id="@+id/txtDOB"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/imgAddress"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="20dp"
+                android:layout_toRightOf="@id/imgEmail"
+                android:text="D.O.B"
+                android:textColor="@color/black" />
+
+            <TextView
+                android:id="@+id/txtHintDOB"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/txtDOB"
+                android:layout_marginLeft="20dp"
+                android:layout_toRightOf="@id/imgEmail"
+                android:text="4/9/2022" />
+
+
+        </RelativeLayout>
+    </FrameLayout>
+
+
+
+
+</androidx.core.widget.NestedScrollView>
